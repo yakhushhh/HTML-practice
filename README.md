@@ -1,1 +1,1 @@
-Zerodha web page clone ..
+Zerodha web page 
